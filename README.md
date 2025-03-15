@@ -12,7 +12,7 @@
 An advanced clinical decision support system for predicting cardiac arrest risk in hospitalized patients using ensemble machine learning and deep learning techniques. Built with TensorFlow, scikit-learn, and BigQuery on MIMIC-III clinical database.
 
 <p align="center">
-  <img src="feature_importance.png" alt="Deep Learning Feature Importance" width="600"/>
+  <img src="Feature Importance.png" alt="Deep Learning Feature Importance" width="600"/>
   <br>
   <em>Feature Importance for Cardiac Arrest Prediction</em>
 </p>
@@ -37,8 +37,8 @@ Our hybrid prediction system achieves excellent performance metrics:
 - **Recall**: 81% (weighted average)
 
 <p align="center">
-  <img src="roc_curve.png" alt="ROC Curve" width="400"/>
-  <img src="learning_curves.png" alt="Learning Curves" width="400"/>
+  <img src="ROC Curve.png" alt="ROC Curve" width="400"/>
+  <img src="Loss_Accuracy Curves.png" alt="Learning Curves" width="400"/>
   <br>
   <em>Model Performance: ROC Curve and Learning Curves</em>
 </p>
