@@ -38,9 +38,13 @@ Our hybrid prediction system achieves excellent performance metrics:
 
 <p align="center">
   <img src="ROC Curve.png" alt="ROC Curve" width="400"/>
+  <br>
+  <em>Model Performance: ROC Curve</em>
+</p>
+<p align="center">
   <img src="Loss_Accuracy Curves.png" alt="Learning Curves" width="400"/>
   <br>
-  <em>Model Performance: ROC Curve and Learning Curves</em>
+  <em>Model Performance: Learning Curves</em>
 </p>
 
 ## 🛠️ Technology Stack
